@@ -1,0 +1,9 @@
+dask
+dask[array]
+dask-labextension
+distributed
+h5py
+ipycytoscape
+jupyterlab
+numpy
+tiled[all]
